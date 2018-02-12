@@ -1,0 +1,26 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "Nature"
+            }        
+	],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Unknown",
+				"url": "https://drive.google.com/open?id=1VWyHsr5aTVbFVOI5JMhjTMD4feryBbFl",
+				"thumbUrl": "https://drive.google.com/open?id=1VWyHsr5aTVbFVOI5JMhjTMD4feryBbFl",
+				"name": "Image 1",
+                "category": "nature"
+			},
+            {
+				"author": "Developer",
+				"url": "https://drive.google.com/open?id=1790Wl6-_1OrEXF-TMMejMsEckGCWyKaS",
+				"thumbUrl": "https://drive.google.com/open?id=1790Wl6-_1OrEXF-TMMejMsEckGCWyKaS",
+				"name": "Image 2",
+                "category": "nature"
+			},
+            		]
+}
